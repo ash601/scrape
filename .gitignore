@@ -1,0 +1,7 @@
+node_modules/
+.next/
+next-env.d.ts
+*.tsbuildinfo
+# Your own stuff: never shared (your Apify key, your scrapes, your CSVs)
+my-scrapes/
+*.bak

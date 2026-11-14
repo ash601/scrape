@@ -1,0 +1,25 @@
+{
+  "name": "scrape",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Scrape: paste a LinkedIn post link, get everyone who commented, download a CSV.",
+  "scripts": {
+    "dev": "next dev -H 127.0.0.1 -p 3961",
+    "build": "next build",
+    "start": "next start -H 127.0.0.1 -p 3961"
+  },
+  "dependencies": {
+    "next": "16.2.10",
+    "react": "19.2.7",
+    "react-dom": "19.2.7"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "4.3.2",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "tailwindcss": "4.3.2",
+    "typescript": "^5.9.3"
+  },
+  "engines": { "node": ">=20.9" }
+}
