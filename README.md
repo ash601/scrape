@@ -1,6 +1,6 @@
 # Scrape
 
-Paste a LinkedIn post link, get everyone who commented: name, headline, profile link and their comment. Download it as a CSV.
+Get leads from any LinkedIn post. Paste the link, get a list of everyone who commented (name, headline, profile, comment) as a CSV.
 
 ## Use it
 1. **Download** this folder: green **Code** button → **Download ZIP**, then unzip it.
